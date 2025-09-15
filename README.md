@@ -1,5 +1,5 @@
 # RidwanData
-Data for the Ridwan
+Data for Ridwan
 
 The samples are divided based on spacing between MgO layers in the M2 layer.
 
